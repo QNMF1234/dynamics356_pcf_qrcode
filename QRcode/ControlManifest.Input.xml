@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest>
+  <control namespace="QRcode" constructor="QRcode" version="0.0.1" display-name-key="QRcode" description-key="QRcode description" control-type="standard">
+    <property name="QRvalue" display-name-key="QRvalue" description-key="QR码内容值字段" of-type="SingleLine.Text" usage="bound" required="true" />
+    <resources>
+      <code path="index.ts" order="1"/>
+      <css path="css/style.css" order="1"/>
+    </resources>
+  </control>
+</manifest>
