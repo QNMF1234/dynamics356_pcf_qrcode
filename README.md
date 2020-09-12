@@ -1,0 +1,2 @@
+# dynamics356_pcf_qrcode
+显示QR码的PCF窗体组件,模型驱动与画布可用
